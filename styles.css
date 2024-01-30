@@ -1,0 +1,31 @@
+body { 
+	
+	}
+
+p {
+		font-family: Tahoma;
+		background-color: lightblue;
+	}
+	
+#Pg1 {
+	background-color: red;
+}
+
+.Pg2 {
+	font-family: Ariel;
+}
+
+p::first-line {
+	color: #8b0000;
+}
+
+main h1{
+	font-style: italic;
+}
+              
+img {
+	display: block;
+	margin: auto auto auto auto;
+	width: 50%;
+	border-radius: 30%;
+}

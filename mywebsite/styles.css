@@ -1,0 +1,41 @@
+body { 
+	background-image: url("background.jpg");
+	}
+
+p {
+	padding:25px 30px;
+		font-family: Tahoma;
+		background-color: lightblue;
+		border: 2px solid darkblue;
+		border-radius: 25px;
+		}
+	
+#Pg1 {
+	background-color: red;
+}
+
+.Pg2 {
+	font-family: Ariel;
+}
+
+p::first-line {
+	color: #8b0000;
+}
+
+main h1{
+	font-style: italic;
+	color: darkturquoise;
+}
+              
+img {
+	display: block;
+	margin: auto auto auto auto;
+	width: 50%;
+	border-radius: 30%;
+}
+
+#colum{
+	text-align: center;
+	column-count: 3;
+	column-width: 30%;
+}
